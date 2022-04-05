@@ -1,0 +1,105 @@
+.top {
+  background-color: #8d8daa;
+  padding-top: 33px;
+}
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin: 100px auto -64px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 7.50em;
+  color: #DFDFDE;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: black;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+.middle {
+  
+}
+.bottom {
+  
+}
+.top-cloud {
+  width: 180px; position: absolute ; right: 200px; top: 49px;
+}
+.bottom-cloud {
+  width: 180px; position: absolute; left: 200px;
+}
+.mountain {
+  padding-top: 100px;
+}
+.footer-link {
+  color: #11999E;
+  position: relative;
+  top: 30px;
+}
+.copyright {
+ padding-top: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.code-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.anime-img {
+  float: right;
+  width: 20%;
+  margin-right: 46px;
+  padding-left: 22px;
+}
+.anime-title {
+  padding-top: 20px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+hr {
+  border: 5px gray;
+  border-style: none none dotted;
+  background-color: white;
+  width: 3%;
+}
+.bottom {
+  background-color: #DFDFDE;
+  margin-top: 100px;
+  padding-bottom: 50px;
+}
